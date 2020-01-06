@@ -1,6 +1,6 @@
 # startup_namer
 
-A new Flutter project.
+This is my first training of Flutter through [Google Codelab Course](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0).
 
 ## Getting Started
 
